@@ -1,0 +1,47 @@
+.cor-ponto {
+    color: #ffbb00;
+}
+
+main {
+    background: #000000;
+}
+
+.introducao {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-left: 220px;
+    margin: 0 auto;
+    width: 1192px;
+    height: 680px;
+}
+
+.introducao h2 {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 4rem;
+    line-height: 72px;
+}
+
+.introducao p {
+    color: #b2b2b2;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    line-height: 36px;
+    font-size: 1.5rem;
+}
+
+.introducao img {
+    width: 640px;
+    height: 800px;
+}
+
+.introducao .botao {
+    background: #ffbb00;
+    padding: 16px 32px 16px 32px;
+    border-radius: 5px;
+    color: #332200;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 24px;
+}

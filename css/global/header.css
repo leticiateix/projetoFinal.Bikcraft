@@ -1,0 +1,33 @@
+.header {
+    padding: 32px 100px;
+    background: #000000;
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+}
+
+.header a {
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 32px;
+    width: 87px;
+    height: 32px;
+}
+
+.header h1 {
+    width: 136px;
+    height: 32px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.header-div {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: auto 0;
+}
+
+.menu {
+    display: flex;
+    gap: 40px;
+}
